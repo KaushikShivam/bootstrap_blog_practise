@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Description
-This is a a practise project that I forked to improve on my Bootstrap skills. I have no designed the whole thing from scratch. I have just played around with it to learn.
+This is a a practise project that I forked to improve on my Bootstrap skills. I have not designed the whole thing from scratch. I have just played around with it to learn.
 
 
 ## Installation
